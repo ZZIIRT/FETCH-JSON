@@ -16,7 +16,7 @@
 
 1. Склонируйте репозиторий на ваш локальный компьютер:
    ```bash
-   git clone https://github.com/yourusername/fetch-json.git
+   git clone https://github.com/zzrtk/fetch-json.git
 2. Перейдите в директорию проекта:
    ```bash
    cd fetch-json
